@@ -1,0 +1,64 @@
+body {
+    background-image: url(images/background.png);
+
+  }
+  .container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .coin {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  
+  
+  h1 {
+    margin: 30px;
+    font-family: "Protest Revolution", sans-serif;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #78465f;
+  }
+  
+  p {
+    font-size: 3.5rem;
+    color: #78465f;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  img {
+    width: 100%;
+    border-radius:90%;
+    padding-bottom:30px;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  .btn{
+    background-color:#928e85;
+    color:#78465f;;
+    width:350px;
+    height:70px;
+    border-radius:15px;
+    padding:10px;
+    font-family: 'Indie Flower', cursive;
+    font-size:2rem;
+    text-align: center;
+  }
+  
+  .btn:hover {background-color:white;}
+  
+  .container-bottom{
+    padding-left:450px;
+    padding-bottom:10px;
+  }
+  
